@@ -1,1 +1,1 @@
-# example-token
+# Simple solana token example
